@@ -1,5 +1,4 @@
 ﻿# React-Memory-Game
-# React-Memory-Game
 
 This is a memory game built with react using Parks and Recreaction characters.
 
